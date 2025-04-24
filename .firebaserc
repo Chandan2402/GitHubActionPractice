@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "test-eaaf8",
+    "staging": "test-eaaf8"
+  },
+  "targets": {},
+  "etags": {}
 }
