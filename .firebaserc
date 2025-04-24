@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "github-action-practice-4a2d6"
-  }
+    "default": "test-eaaf8",
+    "staging": "test-eaaf8"
+  },
+  "targets": {},
+  "etags": {}
 }
